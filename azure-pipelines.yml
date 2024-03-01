@@ -8,7 +8,7 @@
 trigger:
 - master
 
-pool: PhaniAgent1
+pool: PhaniAgents
 
 
 steps:
